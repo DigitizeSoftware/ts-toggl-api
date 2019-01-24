@@ -1,1 +1,1 @@
-# toggl-api
+# ts-toggl-api
